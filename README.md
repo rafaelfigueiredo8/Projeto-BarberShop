@@ -1,7 +1,7 @@
 <div style="display: inline_block" align="center">
   <br>
   
-  ![image]()
+  ![image](https://raw.githubusercontent.com/rafaelfigueiredo8/Projeto-BarberShop/main/documentation/logo-cotemig.png)
 
 
 
